@@ -1,6 +1,5 @@
 # 4peksi
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100"/>
+  <img src="https://giphy.com/embed/KzJkzjggfGN5Py6nkT" width="100"/>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/KzJkzjggfGN5Py6nkT" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-code-edr-escueladevrock-KzJkzjggfGN5Py6nkT">via GIPHY</a></p>
